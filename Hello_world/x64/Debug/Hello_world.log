@@ -1,8 +1,0 @@
-﻿  pch.cpp
-  Ball.cpp
-g:\pliki\savy\sfml\hello_world — kopia — kopia\hello_world\ball.cpp(23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-g:\pliki\savy\sfml\hello_world — kopia — kopia\hello_world\ball.cpp(24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-  Hello_world.cpp
-g:\pliki\savy\sfml\hello_world — kopia — kopia\hello_world\hello_world.cpp(125): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Generating Code...
-sfml-graphics-s-d.lib(Color.cpp.obj) : fatal error LNK1112: module machine type 'x86' conflicts with target machine type 'x64'

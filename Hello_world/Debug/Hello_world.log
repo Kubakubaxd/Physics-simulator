@@ -1,6 +1,0 @@
-﻿  Hello_world.cpp
-g:\pliki\savy\sfml\przebudowa auu\hello_world\hello_world.cpp(66): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-g:\pliki\savy\sfml\przebudowa auu\hello_world\hello_world.cpp(93): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-g:\pliki\savy\sfml\przebudowa auu\hello_world\hello_world.cpp(127): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-g:\pliki\savy\sfml\przebudowa auu\hello_world\hello_world.cpp(131): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-  Hello_world.vcxproj -> G:\PLIKI\SAVY\SFML\Przebudowa Auu\Debug\Hello_world.exe
